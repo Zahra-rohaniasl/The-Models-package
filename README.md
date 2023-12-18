@@ -1,9 +1,5 @@
-# BSMM-lab-5
+# The Ames Housing Data
 
 ------------------------------------------------------------------------
 
-Starter materials for BSMM-8740 lab-5. See the course website for lab instructions.
-
-Before you wrap up the assignment, make sure all documents are updated on your GitHub repo (i.e. save, stage, commit and push).
-
-Remember -- you do **not** have to turn in an \*.html file. I will be pulling your work directly from your repository on the [course github site](https://github.com/BSMM-8740-Fall-2023).
+This is a data set from De Cock (2011) has 82 fields were recorded for 2,930 properties in Ames Iowa in the US. The version in the modeldata package is copied from the AmesHousing package but does not include a few quality columns that appear to be outcomes rather than predictors.
